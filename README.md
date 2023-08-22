@@ -44,3 +44,6 @@ Neste exemplo, a variável `nome` é declarada como estática. Isso significa qu
 Ao adotar essa abordagem, você evita desperdício de memória e vazamentos, garantindo um uso mais eficiente dos recursos disponíveis.
 
 Lembrando que um gerenciamento eficaz da memória em projetos Pawn é essencial para garantir o bom desempenho e a estabilidade de suas aplicações. Portanto, sempre considere o tipo de variável, escopo e alocação de memória ao escrever seu código.
+
+Este tutorial foi desenvolvido com base nas vagas informações do pawn-lang.pdf disponibilizado pela CompuPhase, e pelo wiki AlliedMods.<br>
+Autoria de DeviceBlack 😁✌️
