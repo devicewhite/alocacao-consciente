@@ -45,5 +45,5 @@ Ao adotar essa abordagem, você evita desperdício de memória e vazamentos, gar
 
 Lembrando que um gerenciamento eficaz da memória em projetos Pawn é essencial para garantir o bom desempenho e a estabilidade de suas aplicações. Portanto, sempre considere o tipo de variável, escopo e alocação de memória ao escrever seu código.
 
-Este tutorial foi desenvolvido com base nas vagas informações do pawn-lang.pdf disponibilizado pela CompuPhase, e pelo wiki AlliedMods.<br>
+Este tutorial foi desenvolvido com base nas vagas informações do pawn-lang.pdf disponibilizado pela CompuPhase, e pelo wiki A.<br>
 Autoria de DeviceBlack 😁✌️
