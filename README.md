@@ -1,6 +1,6 @@
-# Uso Consciente de Memória na Linguagem Pawn para Evitar Vazamento de Memória
+## Uso Consciente de Memória na Linguagem Pawn para Evitar Vazamento de Memória
 
-## Neste tutorial, vamos abordar como fazer um uso consciente da memória na linguagem Pawn, especialmente no contexto de evitar vazamento de memória. O objetivo é ajudar programadores a entender os conceitos básicos e práticas necessárias para gerenciar corretamente a alocação de memória em seus projetos Pawn.
+Neste tutorial, vamos abordar como fazer um uso consciente da memória na linguagem Pawn, especialmente no contexto de evitar vazamento de memória. O objetivo é ajudar programadores a entender os conceitos básicos e práticas necessárias para gerenciar corretamente a alocação de memória em seus projetos Pawn.
 
 **1. Tipos em Pawn:**
 Pawn possui apenas um tipo de dado chamado "cell" (célula). Em um processador de 32 bits, cada célula tem 4 bytes, enquanto em um processador de 64 bits, cada célula tem 8 bytes.
